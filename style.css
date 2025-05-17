@@ -1,9 +1,33 @@
-body {
-  font-family: Arial;
-  padding: 20px;
-  background: #f5f5f5;
-}
 
-h1 {
-  color: #0077cc;
-}
+<!DOCTYPE html>
+<html>
+<head>
+  <title>LPG Car Kit Fitting | Save Fuel, Go Green</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>LPG Car Kit Fitting Service</h1>
+    <p>Convert your petrol car to LPG and save money!</p>
+  </header>
+
+  <section>
+    <h2>Why Choose Us?</h2>
+    <ul>
+      <li>Expert LPG Kit Installation</li>
+      <li>100% Petrol to LPG conversion</li>
+      <li>Government Approved Kits</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Contact Us</h2>
+    <p>Call/WhatsApp: <strong>9876543210</strong></p>
+    <p>Location: Your City, India</p>
+  </section>
+
+  <footer>
+    <p>© 2025 LPG Car Kit Fitting Service</p>
+  </footer>
+</body>
+</html>
